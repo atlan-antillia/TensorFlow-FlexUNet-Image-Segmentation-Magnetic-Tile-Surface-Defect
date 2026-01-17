@@ -1,7 +1,7 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Magnetic-Tile-Surface-Defect  (2026/01/17)</h2>
 Toshiyuki Arai<br>
 Software Laboratory antillia.com<br><br>
-This is the first experiment of Image Segmentation for <b>Magnetic-Tile-Surface-Defectt</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
+This is the first experiment of Image Segmentation for <b>Magnetic-Tile-Surface-Defect</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
 (TensorFlow Flexible UNet Image Segmentation Model for Multiclass) , 
 and an <a href="https://drive.google.com/file/d/1EORUyF2idLaIOvpI85KfWKjUmpdGJ3m2/view?usp=sharing"><b>Augmented-Magnetic-Tile-ImageMask-Dataset.zip</b></a> dataset with colorized masks, which was derived by us from <br><br>
 <a href="https://github.com/abin24/Magnetic-tile-defect-datasets.">
